@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+beautifulsoup4==4.13.4
+pandas==2.2.3
+Requests==2.32.3
+selenium==4.33.0
+setuptools==80.9.0
+Unidecode==1.4.0
+=======
+beautifulsoup4==4.13.4
+pandas==2.2.3
+Requests==2.32.3
+selenium==4.33.0
+setuptools==80.9.0
+Unidecode==1.4.0
+>>>>>>> main
